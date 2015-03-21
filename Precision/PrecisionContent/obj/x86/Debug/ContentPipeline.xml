@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\AntiBody.png</Source>
+      <Name>Textures\AntiBody</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\AntiBody.xnb</Output>
+      <Time>2012-06-22T17:54:20.4299463+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BackGround.png</Source>
+      <Name>Textures\BackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\BackGround.xnb</Output>
+      <Time>2012-06-22T17:54:20.4429463+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Cell.png</Source>
+      <Name>Textures\Cell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\Cell.xnb</Output>
+      <Time>2012-06-22T17:54:20.4509463+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\probe.png</Source>
+      <Name>Textures\probe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\probe.xnb</Output>
+      <Time>2012-06-22T17:54:20.4579463+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\StopWatch.png</Source>
+      <Name>Textures\StopWatch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\StopWatch.xnb</Output>
+      <Time>2012-06-22T17:54:20.4639463+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\22bar.png</Source>
+      <Name>Textures\22bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\22bar.xnb</Output>
+      <Time>2012-08-25T19:49:35.222988+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\titleScreen.png</Source>
+      <Name>Textures\titleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\titleScreen.xnb</Output>
+      <Time>2012-08-26T12:04:16.7039504+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\LevelUpScreen.png</Source>
+      <Name>Textures\LevelUpScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\LevelUpScreen.xnb</Output>
+      <Time>2013-01-02T18:24:35.315+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Arial.spritefont</Source>
+      <Name>Textures\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\Arial.xnb</Output>
+      <Time>2012-08-20T20:25:09.5445606+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Documents\Visual Studio 2010\Projects\Precision\Precision\PrecisionContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Documents\Visual Studio 2010\Projects\Precision\Precision\PrecisionContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-05-06T09:31:23.533+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

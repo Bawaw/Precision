@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Precision", "Precision\Precision\Precision.csproj", "{45739023-E264-4543-B9DF-EAAEAA234A60}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PrecisionContent", "Precision\PrecisionContent\PrecisionContent.contentproj", "{2C2CA122-2F43-4BDF-8532-0700B96B4130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45739023-E264-4543-B9DF-EAAEAA234A60}.Debug|x86.ActiveCfg = Debug|x86
+		{45739023-E264-4543-B9DF-EAAEAA234A60}.Debug|x86.Build.0 = Debug|x86
+		{45739023-E264-4543-B9DF-EAAEAA234A60}.Release|x86.ActiveCfg = Release|x86
+		{45739023-E264-4543-B9DF-EAAEAA234A60}.Release|x86.Build.0 = Release|x86
+		{2C2CA122-2F43-4BDF-8532-0700B96B4130}.Debug|x86.ActiveCfg = Debug|x86
+		{2C2CA122-2F43-4BDF-8532-0700B96B4130}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,38 @@
+c:\users\mr. bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\Arial.xnb
+c:\users\mr. bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Precision.exe
+c:\users\mr. bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Precision.pdb
+c:\users\mr. bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mr. bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\mr. bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\obj\x86\Debug\Precision.exe
+c:\users\mr. bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\obj\x86\Debug\Precision.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\AntiBody.xnb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\bACKgROUND.xnb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\Cell.xnb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\probe.xnb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\StopWatch.xnb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Precision.exe.manifest
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Precision.application
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\obj\x86\Debug\Precision.exe.manifest
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\obj\x86\Debug\Precision.application
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\22bar.xnb
+C:\Users\Mr. Bawaw\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\titleScreen.xnb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\LevelUpScreen.xnb
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\AntiBody.xnb
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\BackGround.xnb
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\Cell.xnb
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\probe.xnb
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\StopWatch.xnb
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\22bar.xnb
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\titleScreen.xnb
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\LevelUpScreen.xnb
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Content\Textures\Arial.xnb
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Precision.exe.manifest
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Precision.application
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Precision.exe
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\bin\x86\Debug\Precision.pdb
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\obj\x86\Debug\Precision.exe.manifest
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\obj\x86\Debug\Precision.application
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\obj\x86\Debug\Precision.exe
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\Precision\obj\x86\Debug\Precision.pdb

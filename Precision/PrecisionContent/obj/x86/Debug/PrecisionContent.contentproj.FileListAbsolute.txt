@@ -1,0 +1,2 @@
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Precision\Precision\PrecisionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\Precision\Precision\PrecisionContent\obj\x86\Debug\ResolveAssemblyReference.cache
